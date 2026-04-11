@@ -30,10 +30,10 @@
 <img src="https://stats.justsong.cn/api/bilibili/?id=3493110082439389&lang=zh-CN">
 <br>
 <a href="https://space.bilibili.com/3493110082439389" target="_blank">
-<img alt="Bilibili" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=哔哩哔哩粉丝&labelColor=FF6699&color=282c34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=3493110082439389&longCache=true&logo=bilibili&logoColor=white">
+<img alt="Bilibili" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9%e7%b2%89%e4%b8%9d&labelColor=FF6699&color=282c34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=3493110082439389&longCache=true&logo=bilibili&logoColor=white">
 </a>
 <a href="https://github.com/longlonger2022" target="_blank">
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub关注者&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlonglonger2022&labelColor=282c34&color=353940&logo=github&longCache=true">
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%e5%85%b3%e6%b3%a8%e8%80%85&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlonglonger2022&labelColor=282c34&color=353940&logo=github&longCache=true">
 </a>
 </div>
 
