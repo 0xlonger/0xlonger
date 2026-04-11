@@ -1,5 +1,5 @@
 <h4 align="right">
-简体中文 | <a target="blank" href="https://github.com/longlonger2022/longlonger2022/README.md">English</a>
+简体中文 | <a target="blank" href="https://github.com/longlonger2022/longlonger2022/blob/main/README.md">English</a>
 </h4>
 
 <h3 align="center">
