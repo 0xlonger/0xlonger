@@ -10,7 +10,7 @@ This is 龙ger_longer(longlonger2022)!
 
 <p align="center">
 Welcome, the
-<img src="https://count.getloli.com/get/@longlonger2022?theme=rule34" alt="Visitor Counter">
+<img src="https://count.getloli.com/get/@longlonger2022?theme=rule34&padding=0" alt="Visitor Counter">
 th/st/nd/rd visitor!
 </p>
 

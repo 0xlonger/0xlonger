@@ -10,7 +10,7 @@
 
 <p align="center">
 欢迎第
-<img src="https://count.getloli.com/get/@longlonger2022?theme=rule34" alt="Visitor Counter">
+<img src="https://count.getloli.com/get/@longlonger2022?theme=rule34&padding=0" alt="Visitor Counter">
 位访客！
 </p>
 
