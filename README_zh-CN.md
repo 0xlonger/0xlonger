@@ -1,16 +1,16 @@
 <h4 align="right">
-简体中文 | <a target="blank" href="https://github.com/longlonger2022/longlonger2022/blob/main/README.md">English</a>
+简体中文 | <a target="blank" href="https://github.com/0xlonger/0xlonger/blob/main/README.md">English</a>
 </h4>
 
 <h3 align="center">
 众众众众众嗦粥汁！
 
-这里是 龙ger_longer(longlonger2022)!
+这里是 龙ger_longer(0xlonger)!
 </h3>
 
 <p align="center">
 欢迎第
-<img src="https://count.getloli.com/get/@longlonger2022?theme=rule34&padding=0" alt="Visitor Counter">
+<img src="https://count.getloli.com/get/@0xlonger?theme=rule34&padding=0" alt="Visitor Counter">
 位访客！
 </p>
 
@@ -26,11 +26,11 @@
 #### 👁️‍🗨️ 还有更多！
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=longlonger2022&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.shion.dev/api?username=0xlonger&show_icons=true&count_private=true">
 <img src="https://stats.justsong.cn/api/bilibili/?id=3493110082439389&lang=zh-CN">
 <br>
 <a href="https://space.bilibili.com/3493110082439389" target="_blank"><img alt="Bilibili" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9%e7%b2%89%e4%b8%9d&labelColor=FF6699&color=282c34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=3493110082439389&longCache=true&logo=bilibili&logoColor=white"></a>
-<a href="https://github.com/longlonger2022" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%e5%85%b3%e6%b3%a8%e8%80%85&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlonglonger2022&labelColor=282c34&color=353940&logo=github&longCache=true"></a>
+<a href="https://github.com/0xlonger" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%e5%85%b3%e6%b3%a8%e8%80%85&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3D0xlonger&labelColor=282c34&color=353940&logo=github&longCache=true"></a>
 </div>
 
 #### 🖨️ 工作空间 (Workspace)
@@ -42,6 +42,6 @@
 #### 🖥 Website
 - 我的~~官网~~个人网站由 GitHub Pages 和 Cloudflare Pages 托管。
 - 由此前往我的网站：
-    - GitHub Pages: <https://longlonger2022.github.io/>
+    - GitHub Pages: <https://0xlonger.github.io/>
     - Cloudflare Pages: <https://lgr.pages.dev/>
 - 两者的内容是一样的。

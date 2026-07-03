@@ -1,16 +1,16 @@
 <h4 align="right">
-<a target="blank" href="https://github.com/longlonger2022/longlonger2022/blob/main/README_zh-CN.md">简体中文</a> | English
+<a target="blank" href="https://github.com/0xlonger/0xlonger/blob/main/README_zh-CN.md">简体中文</a> | English
 </h4>
 
 <h3 align="center">
 👋 Hi There!
 
-This is 龙ger_longer(longlonger2022)!
+This is 龙ger_longer(0xlonger)!
 </h3>
 
 <p align="center">
 Welcome, the
-<img src="https://count.getloli.com/get/@longlonger2022?theme=rule34&padding=0" alt="Visitor Counter">
+<img src="https://count.getloli.com/get/@0xlonger?theme=rule34&padding=0" alt="Visitor Counter">
 th/st/nd/rd visitor!
 </p>
 
@@ -26,11 +26,11 @@ th/st/nd/rd visitor!
 #### 👁️‍🗨️ Find ME
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=longlonger2022&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.shion.dev/api?username=0xlonger&show_icons=true&count_private=true">
 <img src="https://stats.justsong.cn/api/bilibili/?id=3493110082439389">
 <br>
 <a href="https://space.bilibili.com/3493110082439389" target="_blank"><img alt="Bilibili" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Bilibili+Fans&labelColor=FF6699&color=282c34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=3493110082439389&longCache=true&logo=bilibili&logoColor=white"></a>
-<a href="https://github.com/longlonger2022" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub+Followers&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlonglonger2022&labelColor=282c34&color=353940&logo=github&longCache=true"></a>
+<a href="https://github.com/0xlonger" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub+Followers&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3D0xlonger&labelColor=282c34&color=353940&logo=github&longCache=true"></a>
 </div>
 
 #### 🖨️ Workspace
@@ -42,6 +42,6 @@ th/st/nd/rd visitor!
 #### 🖥 Website
 - My ~~official~~ personal website is hosted on GitHub Pages and Cloudflare Pages.
 - Go to my website here:
-    - GitHub Pages: <https://longlonger2022.github.io/>
+    - GitHub Pages: <https://0xlonger.github.io/>
     - Cloudflare Pages: <https://lgr.pages.dev/>
 - The content of both is the same.
